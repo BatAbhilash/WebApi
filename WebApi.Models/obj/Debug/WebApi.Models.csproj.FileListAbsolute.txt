@@ -1,0 +1,6 @@
+E:\webapidotnetcore2.0\WebApiCore2\WebApi.Models\bin\Debug\WebApi.Models.dll
+E:\webapidotnetcore2.0\WebApiCore2\WebApi.Models\bin\Debug\WebApi.Models.pdb
+E:\webapidotnetcore2.0\WebApiCore2\WebApi.Models\obj\Debug\WebApi.Models.csprojResolveAssemblyReference.cache
+E:\webapidotnetcore2.0\WebApiCore2\WebApi.Models\obj\Debug\WebApi.Models.csproj.CoreCompileInputs.cache
+E:\webapidotnetcore2.0\WebApiCore2\WebApi.Models\obj\Debug\WebApi.Models.dll
+E:\webapidotnetcore2.0\WebApiCore2\WebApi.Models\obj\Debug\WebApi.Models.pdb

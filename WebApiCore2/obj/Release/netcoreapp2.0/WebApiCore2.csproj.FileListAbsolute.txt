@@ -1,0 +1,10 @@
+E:\webapidotnetcore2.0\WebApiCore2\WebApiCore2\bin\Release\netcoreapp2.0\WebApiCore2.deps.json
+E:\webapidotnetcore2.0\WebApiCore2\WebApiCore2\bin\Release\netcoreapp2.0\WebApiCore2.runtimeconfig.json
+E:\webapidotnetcore2.0\WebApiCore2\WebApiCore2\bin\Release\netcoreapp2.0\WebApiCore2.runtimeconfig.dev.json
+E:\webapidotnetcore2.0\WebApiCore2\WebApiCore2\bin\Release\netcoreapp2.0\WebApiCore2.dll
+E:\webapidotnetcore2.0\WebApiCore2\WebApiCore2\bin\Release\netcoreapp2.0\WebApiCore2.pdb
+E:\webapidotnetcore2.0\WebApiCore2\WebApiCore2\obj\Release\netcoreapp2.0\WebApiCore2.csproj.CoreCompileInputs.cache
+E:\webapidotnetcore2.0\WebApiCore2\WebApiCore2\obj\Release\netcoreapp2.0\WebApiCore2.AssemblyInfoInputs.cache
+E:\webapidotnetcore2.0\WebApiCore2\WebApiCore2\obj\Release\netcoreapp2.0\WebApiCore2.AssemblyInfo.cs
+E:\webapidotnetcore2.0\WebApiCore2\WebApiCore2\obj\Release\netcoreapp2.0\WebApiCore2.dll
+E:\webapidotnetcore2.0\WebApiCore2\WebApiCore2\obj\Release\netcoreapp2.0\WebApiCore2.pdb

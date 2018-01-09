@@ -1,0 +1,10 @@
+E:\webapidotnetcore2.0\WebApiCore2\WebApi.Services\bin\Debug\WebApi.Services.dll
+E:\webapidotnetcore2.0\WebApiCore2\WebApi.Services\bin\Debug\WebApi.Services.pdb
+E:\webapidotnetcore2.0\WebApiCore2\WebApi.Services\bin\Debug\WebApi.Models.dll
+E:\webapidotnetcore2.0\WebApiCore2\WebApi.Services\bin\Debug\WebApi.Repositories.dll
+E:\webapidotnetcore2.0\WebApiCore2\WebApi.Services\bin\Debug\WebApi.Models.pdb
+E:\webapidotnetcore2.0\WebApiCore2\WebApi.Services\bin\Debug\WebApi.Repositories.pdb
+E:\webapidotnetcore2.0\WebApiCore2\WebApi.Services\obj\Debug\WebApi.Services.csprojResolveAssemblyReference.cache
+E:\webapidotnetcore2.0\WebApiCore2\WebApi.Services\obj\Debug\WebApi.Services.csproj.CoreCompileInputs.cache
+E:\webapidotnetcore2.0\WebApiCore2\WebApi.Services\obj\Debug\WebApi.Services.dll
+E:\webapidotnetcore2.0\WebApiCore2\WebApi.Services\obj\Debug\WebApi.Services.pdb
